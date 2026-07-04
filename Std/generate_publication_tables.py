@@ -8,7 +8,7 @@ Generates exact metrics for:
 import ast
 import time
 import os
-import astrace_standard_encoder
+import Std.astrace_standard_encoder as astrace_standard_encoder
 
 def generate_synthetic_ast(node_count: int) -> str:
     """Generates a perfectly controlled Python script of exact AST size."""

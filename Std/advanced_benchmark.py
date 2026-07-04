@@ -20,8 +20,8 @@ import urllib.request
 import hashlib
 from typing import List, Tuple
 
-import astrace_standard_encoder
-import astrace_standard_decoder
+import Std.astrace_standard_encoder as astrace_standard_encoder
+import Std.astrace_standard_decoder as astrace_standard_decoder
 
 REAL_REPOS = {
     "Flask_Core": "https://raw.githubusercontent.com/pallets/flask/main/src/flask/app.py",
