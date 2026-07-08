@@ -1,8 +1,8 @@
 """
 ===============================================================================
-ASTHASH ENTERPRISE: ACADEMIC METROLOGY FRAMEWORK (v1.1.0)
-Target: 100-File Static Corpus
-Metrics: Robust F1, Payload Density, FPR, Specificity, Wilson Score CI
+ASTHASH ENTERPRISE: ACADEMIC METROLOGY FRAMEWORK (v1.2.0 - Master Edition)
+Target: 100-File Modern Corpus (Python 3.12)
+Metrics: Robust F1, Payload Density, Specificity, Wilson Score CI, L1-L3 Attacks
 ===============================================================================
 """
 import ast
@@ -22,26 +22,70 @@ from astrace_enterprise_decoder import ProvenanceVerifier
 # 1. THE ADVERSARIAL ATTACK TIERS
 # =====================================================================
 class ASTCanonicalizationAttack(ast.NodeTransformer):
-    """Level 2: Semantic-preserving AST normalization adversary."""
-    def visit_Expr(self, node):
-        if isinstance(node.value, ast.Constant) and isinstance(node.value.value, str):
-            return None
-        return self.generic_visit(node)
-    def visit_Pass(self, node):
-        return None
+    """Level 2: Advanced Semantic-preserving AST normalization adversary (9/10)."""
+    
+    def _clean_body(self, body):
+        """Aggressively strips docstrings/pass statements without crashing the AST."""
+        new_body = []
+        for node in body:
+            if isinstance(node, ast.Expr) and isinstance(node.value, ast.Constant) and isinstance(node.value.value, str):
+                continue
+            if isinstance(node, ast.Pass):
+                continue
+            
+            # Recursively visit and safely flatten any returned lists (like from DCE)
+            visited_node = self.visit(node)
+            if isinstance(visited_node, list):
+                new_body.extend(visited_node)
+            elif visited_node is not None:
+                new_body.append(visited_node)
+                
+        if not new_body:
+            new_body.append(ast.Pass())
+        return new_body
+
+    def visit_FunctionDef(self, node):
+        self.generic_visit(node)
+        node.body = self._clean_body(node.body)
+        return node
+        
+    def visit_ClassDef(self, node):
+        self.generic_visit(node)
+        node.body = self._clean_body(node.body)
+        return node
+
+    def visit_If(self, node):
+        self.generic_visit(node)
+        # Dead Code Elimination (DCE)
+        if isinstance(node.test, ast.Constant):
+            if not node.test.value: 
+                return node.orelse if node.orelse else None
+            else: 
+                return node.body
+        return node
+
     def visit_BinOp(self, node):
         self.generic_visit(node)
+        
+        # Advanced Constant Folding
         if isinstance(node.left, ast.Constant) and isinstance(node.right, ast.Constant):
             try:
                 if isinstance(node.op, ast.Add): return ast.Constant(value=node.left.value + node.right.value)
                 if isinstance(node.op, ast.Sub): return ast.Constant(value=node.left.value - node.right.value)
+                if isinstance(node.op, ast.Mult): return ast.Constant(value=node.left.value * node.right.value)
+                if isinstance(node.op, ast.FloorDiv) and node.right.value != 0: 
+                    return ast.Constant(value=node.left.value // node.right.value)
             except Exception: pass
+            
+        # Safe Commutative Swapping
         elif isinstance(node.op, (ast.Add, ast.Mult)):
-            node.left, node.right = node.right, node.left
+            if isinstance(node.left, (ast.Name, ast.Constant)) and isinstance(node.right, (ast.Name, ast.Constant)):
+                node.left, node.right = node.right, node.left
+                
         return node
 
 class SemanticMutationAttack(ast.NodeTransformer):
-    """Level 3: Identifier renaming to break text-based watermarks."""
+    """Level 3: Identifier renaming to test macro-topological resilience."""
     def visit_FunctionDef(self, node):
         if not node.name.startswith('__'): node.name = f"obfuscated_{node.name}"
         self.generic_visit(node)
@@ -141,7 +185,7 @@ def calc_wilson_ci(p, n, z=1.96):
 
 def run_metrology_framework():
     print("\n" + "="*80)
-    print(" ASTHASH EPOCH V: ACADEMIC METROLOGY FRAMEWORK (Wilson CI Edition)")
+    print(" ASTHASH EPOCH V: ACADEMIC METROLOGY FRAMEWORK (Master Edition)")
     print("="*80)
     
     KeyManager().generate_and_save_keys()
