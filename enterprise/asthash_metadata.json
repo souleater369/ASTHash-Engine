@@ -1,7 +1,9 @@
 {
-    "project": "ASTHASH Enterprise Metrology",
-    "date": "2026-07-08T08:32:46.220900",
-    "engine_version": "Epoch V (Macro-Topological)",
-    "payload_bits": 672,
-    "ci_method": "Wilson Score Interval"
+    "Project": "ASTHASH Protocol V2 Metrology",
+    "Run_Seed": "0e54b312-881d-4981-b8cf-13d6cb7eef31",
+    "Key_ID": "DEV_KEY_001",
+    "Timestamp": "2026-07-16T09:48:22.814262",
+    "CI_Method": "Wilson Score Interval",
+    "Target_Files": 200,
+    "Payload_Bits": 672
 }

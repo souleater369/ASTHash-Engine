@@ -1,101 +1,201 @@
-Project,Domain,AST_Nodes,Payload_Bits,Encode_Time_ms,Verify_Time_ms,False_Positive_Check,Baseline_Verify,Black_Survival,Ruff_Survival,Canonical_Survival,Semantic_Survival
-django/django,Web,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pallets/flask,Web,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pallets/flask,Web,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pallets/flask,Web,1256,672,3044.24,1151.35,False,False,ERROR,ERROR,ERROR,ERROR
-tiangolo/fastapi,Web,7538,672,4119.63,2692.64,False,False,ERROR,ERROR,ERROR,ERROR
-tiangolo/fastapi,Web,9694,672,4537.27,2084.82,False,False,ERROR,ERROR,ERROR,ERROR
-tiangolo/fastapi,Web,136,672,120.26,36.25,False,False,ERROR,ERROR,ERROR,ERROR
-encode/starlette,Web,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pallets/flask,Web,188,672,314.33,188.29,False,True,True,True,True,True
-django/django,Web,881,672,387.41,302.96,False,True,True,True,True,True
-pallets/flask,Web,1418,672,365.82,144.38,False,True,True,True,True,True
-django/django,Web,1417,672,1278.08,2013.97,False,True,True,True,True,True
-encode/starlette,Web,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pytorch/pytorch,Machine_Learning,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-encode/starlette,Web,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pytorch/pytorch,Machine_Learning,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-encode/starlette,Web,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pytorch/pytorch,Machine_Learning,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pytorch/pytorch,Machine_Learning,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pytorch/pytorch,Machine_Learning,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pandas-dev/pandas,Machine_Learning,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pandas-dev/pandas,Machine_Learning,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-scikit-learn/scikit-learn,Machine_Learning,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-tiangolo/fastapi,Web,4424,672,3536.78,1740.64,False,True,True,True,True,True
-pandas-dev/pandas,Machine_Learning,13895,672,5047.31,883.45,False,False,ERROR,ERROR,ERROR,ERROR
-tiangolo/fastapi,Web,2950,672,3145.74,1423.31,False,True,True,True,True,True
-encode/starlette,Web,1575,672,2385.71,1286.31,False,True,True,True,True,True
-django/django,Web,7050,672,2374.16,2276.38,False,True,True,True,True,True
-django/django,Web,12155,672,1962.87,2591.4,False,True,True,True,True,True
-pandas-dev/pandas,Machine_Learning,24230,672,10115.57,3554.08,False,False,ERROR,ERROR,ERROR,ERROR
-scikit-learn/scikit-learn,Machine_Learning,3179,672,2905.01,2122.33,False,True,True,True,True,True
-scikit-learn/scikit-learn,Machine_Learning,1705,672,3098.66,2383.28,False,True,True,True,True,True
-psf/requests,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-psf/requests,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-psf/requests,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-scikit-learn/scikit-learn,Machine_Learning,5872,672,4678.19,2688.87,False,True,True,True,True,True
-scikit-learn/scikit-learn,Machine_Learning,5618,672,4390.46,2573.86,False,True,True,True,True,True
-scrapy/scrapy,Networking,2584,672,2775.24,962.04,False,False,ERROR,ERROR,ERROR,ERROR
-scrapy/scrapy,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-huggingface/transformers,Machine_Learning,4073,672,4086.91,2076.12,False,True,True,True,True,True
-scrapy/scrapy,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pandas-dev/pandas,Machine_Learning,14907,672,5221.72,909.85,False,True,True,True,True,True
-psf/requests,Networking,181,672,2034.52,865.2,False,True,True,True,True,True
-httpx/httpx,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-httpx/httpx,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-httpx/httpx,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-httpx/httpx,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-huggingface/transformers,Machine_Learning,9461,672,5992.35,2345.33,False,True,True,True,True,True
-psf/requests,Networking,267,672,1285.3,1288.69,False,True,True,True,True,True
-httpx/httpx,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-scrapy/scrapy,Networking,1850,672,2804.92,1108.28,False,True,True,True,True,True
-urllib3/urllib3,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-urllib3/urllib3,Networking,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-scrapy/scrapy,Networking,1242,672,1832.75,614.37,False,True,True,True,True,True
-Textualize/rich,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-Textualize/rich,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-Textualize/rich,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-huggingface/transformers,Machine_Learning,14287,672,10137.81,3401.49,False,True,True,True,True,True
-Textualize/rich,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pallets/click,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pallets/click,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pallets/click,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pallets/click,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-huggingface/transformers,Machine_Learning,22233,672,10582.03,4261.95,False,True,True,True,True,True
-pydantic/pydantic,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-huggingface/transformers,Machine_Learning,19580,672,11153.58,3206.4,False,True,True,True,True,True
-urllib3/urllib3,Networking,3570,672,2112.94,597.66,False,True,True,True,True,True
-pydantic/pydantic,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-urllib3/urllib3,Networking,1717,672,1709.72,600.9,False,True,True,True,True,True
-pydantic/pydantic,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-sqlalchemy/sqlalchemy,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-urllib3/urllib3,Networking,3462,672,2087.31,804.78,False,True,True,True,True,True
-sqlalchemy/sqlalchemy,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-apache/airflow,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-apache/airflow,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pallets/click,CLI_Tooling,2488,672,2314.57,1927.07,False,True,True,True,True,True
-apache/airflow,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-Textualize/rich,CLI_Tooling,6505,672,2670.2,1520.5,False,True,True,True,True,True
-sqlalchemy/sqlalchemy,CLI_Tooling,17200,672,5391.26,1247.18,False,False,ERROR,ERROR,ERROR,ERROR
-apache/airflow,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-celery/celery,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-celery/celery,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-celery/celery,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pydantic/pydantic,CLI_Tooling,5971,672,3671.44,1780.71,False,True,True,True,True,True
-pydantic/pydantic,CLI_Tooling,6116,672,3267.65,1141.15,False,True,True,True,True,True
-celery/celery,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-celery/celery,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pytest-dev/pytest,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pytest-dev/pytest,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pytest-dev/pytest,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pytest-dev/pytest,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-pypa/pip,CLI_Tooling,0,672,0,0,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-apache/airflow,CLI_Tooling,6723,672,3234.09,885.05,False,True,True,True,True,True
-pytest-dev/pytest,CLI_Tooling,2602,672,521.54,377.42,False,True,True,True,True,True
-pypa/pip,CLI_Tooling,2672,672,672.56,229.83,False,True,True,True,True,True
-pypa/pip,CLI_Tooling,1118,672,425.68,365.12,False,True,True,True,True,True
-pypa/pip,CLI_Tooling,3772,672,675.49,500.4,False,True,True,True,True,True
-pypa/pip,CLI_Tooling,2688,672,528.55,500.17,False,True,True,True,True,True
-sqlalchemy/sqlalchemy,CLI_Tooling,13813,672,4908.97,1262.61,False,True,True,True,True,True
-sqlalchemy/sqlalchemy,CLI_Tooling,18287,672,5255.17,1143.41,False,True,True,True,True,True
+Run_Seed,Key_ID,Project,Domain,Original_Nodes,Watermarked_Nodes,Payload_Bits,Encode_Time_ms,Verify_Time_ms,False_Positive_Check,Baseline_Verify,Black_Survival,Ruff_Survival,Autoflake_Survival,Pyupgrade_Survival,Canonical_Survival,Semantic_Survival,PatternGuided_Survival,Canonical_Node_Delta,Semantic_Node_Delta,PatternGuided_Node_Delta,Failure_Reason
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,17,17,672,7.79,0.08,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,986,10506,672,51.94,64.92,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,21,9541,672,130.62,96.92,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.214,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,852,10372,672,325.47,103.76,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1971,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,21,9541,672,108.34,443.19,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.214,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,615,10135,672,563.9,375.85,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2025,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,472,9992,672,91.07,97.86,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2042,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,334,9854,672,883.82,436.69,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2074,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,698,10218,672,80.75,383.9,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.201,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,361,9881,672,383.68,1034.83,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2065,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,430,9950,672,526.94,787.99,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.206,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,1058,10578,672,1500.27,346.59,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1938,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,58,9578,672,171.16,260.3,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2132,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,896,10416,672,429.83,347.73,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1972,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,1142,10662,672,282.68,176.59,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1923,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,1710,11230,672,407.13,503.26,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1847,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,2245,11765,672,633.09,355.17,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1763,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,171,9691,672,872.71,102.35,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2109,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,79,9599,672,612.59,1428.34,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2125,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,6869,16389,672,716.21,533.53,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,1951,11471,672,957.02,412.79,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1806,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,2973,12493,672,1922.26,864.43,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1651,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,django/django,Web Development,115,9635,672,131.99,474.59,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2119,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,2285,11805,672,607.55,280.22,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1757,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,95,95,672,8.93,0.6,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,438,9958,672,176.29,113.16,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2049,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,346,9866,672,292.78,330.27,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2072,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,791,10311,672,883.36,807.08,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1994,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,5402,14922,672,1534.58,774.71,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1407,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,6172,15692,672,1739.97,571.49,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,6249,15769,672,978.19,540.98,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,5231,14751,672,1604.35,641.39,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,12784,22304,672,2966.64,587.83,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.0918,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,5546,15066,672,1884.68,557.88,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1401,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,6984,16504,672,1176.73,672.29,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1259,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,3579,13099,672,843.05,413.19,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1596,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,459,9979,672,588.63,493.38,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2056,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,2609,12129,672,1123.11,336.72,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1707,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,72,72,672,22.58,5.01,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,2134,11654,672,728.66,465.03,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1766,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,1607,11127,672,337.98,335.59,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1857,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pytorch/pytorch,Machine Learning,6402,15922,672,1215.62,941.92,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1352,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,196,9716,672,416.63,557.75,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.21,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,472,9992,672,584.19,580.25,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2046,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,3494,13014,672,811.01,229.5,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1594,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,175,9695,672,528.67,363.45,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2106,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,2481,12001,672,538.43,299.28,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1703,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,148,148,672,45.35,1.33,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,3299,12819,672,1061.53,348.48,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1629,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,2441,11961,672,1252.49,430.28,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,10173,19693,672,1052.79,502.65,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1077,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,2311,11831,672,1528.2,842.95,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1743,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,2848,12368,672,1094.76,240.05,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1662,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,1669,11189,672,1052.11,611.59,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1827,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,256,9776,672,344.19,401.92,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2087,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,2484,12004,672,2246.44,458.58,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1758,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,9448,18968,672,1697.11,350.51,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,234,9754,672,409.5,1433.82,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2096,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,4611,14131,672,1132.06,422.23,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1478,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,100,100,672,23.19,0.59,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,39,9559,672,182.64,229.44,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2134,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,568,10088,672,289.14,641.08,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2028,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,12,12,672,2.76,0.11,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pandas-dev/pandas,Data Science,17494,27014,672,3964.53,1821.92,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.0809,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,553,10073,672,504.66,800.06,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2027,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,7,7,672,129.84,0.08,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,4690,14210,672,1228.93,136.86,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1461,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,5,5,672,29.34,0.37,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,2327,11847,672,836.75,484.92,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1723,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,3582,13102,672,812.35,692.71,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1557,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,1256,10776,672,647.57,463.73,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1897,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,206,9726,672,706.98,321.94,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2102,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,979,10499,672,604.39,543.45,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1943,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,2667,12187,672,477.56,301.05,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1676,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,3,3,672,9.1,0.05,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,7,7,672,5.28,0.08,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,77,9597,672,482.74,304.32,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.213,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,2288,11808,672,682.52,382.41,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1728,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,20339,29859,672,3325.58,555.85,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.0697,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,tiangolo/fastapi,Web Development,582,10102,672,576.87,348.32,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2027,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,2580,12100,672,983.61,427.14,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1698,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,79,9599,672,305.79,565.44,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2127,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,390,9910,672,834.38,691.73,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2067,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,1441,10961,672,538.61,431.2,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1883,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,2046,11566,672,1077.54,403.91,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1781,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,2640,12160,672,1015.67,517.59,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1742,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,6481,16001,672,1394.89,297.06,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,1903,11423,672,916.14,525.29,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1789,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,274,9794,672,346.77,253.05,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2098,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,662,10182,672,137.06,201.03,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2025,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,4714,14234,672,784.83,289.09,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1458,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,3898,13418,672,834.11,665.95,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,4310,13830,672,910.4,754.24,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1536,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,1101,10621,672,648.25,253.18,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.193,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,3449,12969,672,1083.79,229.45,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1622,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,2922,12442,672,1069.48,770.3,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1678,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,326,326,672,70.28,2.04,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,210,9730,672,371.89,451.71,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2099,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,388,9908,672,671.22,713.24,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2067,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,4242,13762,672,1899.07,337.41,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1538,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,275,275,672,65.77,2.78,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,scikit-learn/scikit-learn,Machine Learning,340,9860,672,462.39,399.78,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2083,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,768,10288,672,229.64,363.18,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1998,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,2027,11547,672,789.76,1145.83,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1791,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,1498,11018,672,406.11,215.47,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1861,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,3506,13026,672,1177.31,1104.0,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1596,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,1848,11368,672,287.62,231.97,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.183,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,4873,14393,672,551.47,552.87,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1458,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,26,26,672,9.78,0.24,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,145,9665,672,942.13,603.43,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2111,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,566,10086,672,1140.65,170.49,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2046,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,33,33,672,68.7,0.33,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,1476,10996,672,282.77,476.34,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1863,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,4274,13794,672,999.86,219.88,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1498,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,699,10219,672,619.75,239.37,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2002,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,26,26,672,10.55,1.44,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,26,26,672,14.92,0.23,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,26,26,672,5.12,0.22,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,269,269,672,15.24,1.68,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,1858,11378,672,612.21,842.08,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,18,18,672,4.67,0.15,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,887,10407,672,766.87,457.28,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1976,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,huggingface/transformers,Machine Learning,1433,10953,672,464.84,219.9,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1873,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,328,9848,672,221.01,416.04,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2088,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,463,9983,672,718.82,590.3,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2049,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,221,221,672,27.65,1.51,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,165,9685,672,203.42,362.3,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2108,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,4506,14026,672,1000.81,704.23,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1512,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,166,166,672,53.72,1.57,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,1063,10583,672,867.66,361.67,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1937,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,2580,12100,672,1095.59,342.9,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1745,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,2375,11895,672,539.66,154.33,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1743,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,41,41,672,43.52,0.29,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,4668,14188,672,1359.42,258.85,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1488,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,338,9858,672,613.35,436.81,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2103,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,3220,12740,672,820.22,424.74,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1639,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,315,315,672,19.42,2.93,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,4271,13791,672,868.09,366.21,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,581,10101,672,313.83,353.74,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2026,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,4209,13729,672,1014.41,691.51,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,148,9668,672,717.54,300.12,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2114,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,psf/requests,Utilities,487,10007,672,707.91,410.13,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2039,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,404,9924,672,714.86,342.25,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2056,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,637,637,672,40.93,5.12,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,1528,11048,672,943.48,285.21,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,513,10033,672,365.83,288.1,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2041,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,1444,10964,672,437.04,384.72,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1903,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,101,101,672,79.05,0.68,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,7,7,672,44.34,0.09,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,1077,10597,672,363.73,343.41,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1942,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,233,9753,672,240.51,682.82,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2092,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,199,9719,672,213.39,237.77,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2105,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,2274,11794,672,532.64,380.32,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,1097,10617,672,474.53,302.28,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,800,10320,672,361.17,251.14,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,364,9884,672,540.61,260.99,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.207,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,1191,10711,672,288.42,449.53,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1931,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,539,10059,672,549.86,196.67,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2046,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,999,10519,672,354.31,535.87,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1979,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,pallets/flask,Web Development,669,10189,672,206.92,65.52,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2032,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,110,9630,672,426.19,1114.7,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,15,15,672,5.36,0.12,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,245,9765,672,575.19,119.1,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2095,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,1006,10526,672,336.16,339.37,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1938,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,1091,10611,672,251.56,236.33,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1928,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,133,9653,672,174.78,393.72,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2113,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,7057,16577,672,2092.6,568.31,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1322,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,2447,11967,672,315.27,240.61,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.171,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,10337,19857,672,1137.01,1030.24,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1049,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,1038,10558,672,623.57,853.18,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.194,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,683,10203,672,586.36,366.9,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2001,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,10322,19842,672,1851.82,861.21,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,57,57,672,11.79,0.22,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,2410,11930,672,811.51,109.49,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1723,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,4840,14360,672,521.72,150.27,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,2522,12042,672,640.11,655.58,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1701,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,4240,13760,672,428.77,225.06,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1494,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,70,9590,672,94.17,113.47,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,2259,11779,672,306.14,231.49,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,14,14,672,10.86,0.11,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,518,10038,672,38.14,86.02,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2042,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,ansible/ansible,DevOps/System,1117,10637,672,250.79,153.96,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1929,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,1486,11006,672,200.28,138.89,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1872,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,995,10515,672,414.59,319.07,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.194,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,2119,11639,672,481.92,276.1,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1753,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,701,10221,672,379.49,279.14,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1996,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,586,10106,672,294.99,416.06,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.203,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,1396,10916,672,343.95,250.86,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1876,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,74,9594,672,272.86,144.08,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2128,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,1322,10842,672,227.2,416.22,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1893,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,2116,11636,672,691.19,306.28,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1796,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,7355,16875,672,542.61,830.12,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1211,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,218,218,672,121.91,1.32,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,2947,12467,672,949.38,587.36,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1659,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,87,87,672,32.05,0.55,False,False,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,0.0,0.0,0.0,Watermark Encoding Rejection
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,4533,14053,672,1275.69,245.1,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1509,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,12918,22438,672,2334.76,681.66,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1016,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,549,10069,672,257.71,442.06,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.2036,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,8399,17919,672,1295.52,337.41,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1239,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'
+0e54b312-881d-4981-b8cf-13d6cb7eef31,DEV_KEY_001,matplotlib/matplotlib,Data Visualization,9308,18828,672,1661.95,308.48,False,True,True,True,Crash: FileNotFoundError,Crash: FileNotFoundError,True,True,ERROR,0.1174,0.0,0.0,Runtime Crash: 'Assign' object has no attribute 'value'

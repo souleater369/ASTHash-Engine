@@ -1,0 +1,201 @@
+Project,Domain,Raw_URL
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/docs/conf.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/docs/lint.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/__main__.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/db/utils.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/core/asgi.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/core/wsgi.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/shortcuts.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/urls/base.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/urls/conf.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/utils/_os.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/utils/csp.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/utils/log.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/tasks/base.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/urls/utils.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/utils/copy.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/utils/html.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/utils/http.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/utils/ipv6.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/utils/json.py
+django/django,Web Development,https://raw.githubusercontent.com/django/django/main/django/utils/text.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/_VF.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/hub.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/.spin/cmds.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/_ops.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/tools/clean.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/types.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/_utils.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/nn/cpp.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/random.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torchgen/gen.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/tools/nightly.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/_guards.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/_lobpcg.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/_tensor.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/fx/node.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/library.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/nn/grad.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/nn/init.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/storage.py
+pytorch/pytorch,Machine Learning,https://raw.githubusercontent.com/pytorch/pytorch/main/torch/_appdirs.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/make.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/generate_pxi.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/api.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/orc.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/sql.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/xml.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/_typing.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/html.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/spss.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas_web.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/source/conf.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/core/api.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/core/col.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/_util.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/stata.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/generate_version.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/core/base.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/common.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/io/pickle.py
+pandas-dev/pandas,Data Science,https://raw.githubusercontent.com/pandas-dev/pandas/main/pandas/core/apply.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/cli.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/sse.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/scripts/docs.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/types.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/utils.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/logger.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/params.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/scripts/people.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/routing.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/__main__.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/encoders.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/requests.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/scripts/sponsors.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/responses.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/scripts/translate.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/_compat/v2.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/background.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/exceptions.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/templating.py
+tiangolo/fastapi,Web Development,https://raw.githubusercontent.com/tiangolo/fastapi/master/fastapi/websockets.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/conf.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/.spin/cmds.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/base.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/dummy.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/_config.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/isotonic.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/pipeline.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/api_reference.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/svm/_base.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/_loss/link.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/_loss/loss.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/exceptions.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/multiclass.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/calibration.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/impute/_knn.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/multioutput.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/naive_bayes.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/svm/_bounds.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/utils/_mask.py
+scikit-learn/scikit-learn,Machine Learning,https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/sklearn/utils/_tags.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/scripts/stale.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/release.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/checkers.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/add_dates.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/print_env.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/check_auto.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/check_repo.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/check_inits.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/check_types.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/check_copies.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/patch_helper.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/benchmark/benchmark.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/_config.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/check_doc_toc.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/check_dummies.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/important_files.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/utils/update_metadata.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/ar/_config.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/de/_config.py
+huggingface/transformers,Machine Learning,https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/en/_config.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/docs/conf.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/api.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/auth.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/help.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/certs.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/hooks.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/utils.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/_types.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/compat.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/models.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/cookies.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/adapters.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/packages.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/sessions.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/exceptions.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/structures.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/__version__.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/status_codes.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/src/requests/_internal_utils.py
+psf/requests,Utilities,https://raw.githubusercontent.com/psf/requests/main/docs/_themes/flask_theme_support.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/docs/conf.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/app.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/cli.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/ctx.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/views.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/config.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/typing.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/globals.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/helpers.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/logging.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/signals.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/__main__.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/json/tag.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/sessions.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/wrappers.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/blueprints.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/sansio/app.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/templating.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/debughelpers.py
+pallets/flask,Web Development,https://raw.githubusercontent.com/pallets/flask/main/src/flask/json/provider.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/hacking/report.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/hacking/azp/run.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/packaging/release.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/cli/doc.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/context.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/release.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/hacking/azp/download.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/__main__.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/cli/pull.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/cli/adhoc.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/cli/vault.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/constants.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/hacking/azp/incidental.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/cli/config.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/cli/galaxy.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/galaxy/api.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/utils/fqcn.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/utils/lock.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/utils/path.py
+ansible/ansible,DevOps/System,https://raw.githubusercontent.com/ansible/ansible/devel/lib/ansible/utils/vars.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/conf.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/pylab.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/tools/gh_api.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/tools/subset.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/tools/memleak.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/tools/make_icons.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/cm.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/tools/boilerplate.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/sphinxext/util.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/_cm.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/tools/github_stats.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/_afm.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/axis.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mlab.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/path.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/text.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/tools/autoclose_prs.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/ci/export_sdist_name.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/sphinxext/github.py
+matplotlib/matplotlib,Data Visualization,https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/cbook.py
